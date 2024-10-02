@@ -1,4 +1,4 @@
-# music_player
+# MUSIC PLAYER
 
 Play songs in this music player created in HTML, CSS and Javascript
 
